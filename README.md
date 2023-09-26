@@ -1,6 +1,7 @@
 # InnovationLab_Opdracht2
 
-![image](https://github.com/Merlocks/InnovationLab_Opdracht2/assets/145263755/32cb7c87-4078-45da-a6be-7f6f0a71da0f)
+![Image](https://i.imgur.com/mW8njjm.png)
+
 
 1. Programma gebruikt http post requests om data te versturen naar Thingsboard api.
 2. Geschreven in C#.
